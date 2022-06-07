@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<ol>
+	<h1>Легкость старта</h1>
+<p>Lorem ipsum dolor sit amet.</p>
+<p>
+	<span>
+		Lorem ipsum <a href="https://www.pond5.com/ru/">dolor sit amet.</a>
+	</span>>
+</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis aut saepe dolorum quisquam, asperiores cum.</p>
+<h2>Ленкий старт для фриланса</h2>
+<ol>
+	<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur, similique!</li>
+<li>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum neque eligendi excepturi iste ipsa?</li>
+<li>Lorem ipsum dolor sit amet.</li>
+</ol>
+<h2>Привет!</h2>
+<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt dolorum iusto impedit voluptas animi odio, dolore sit dignissimos commodi. Dolor vitae labore accusamus laboriosam ea!</p>
+<img src="/Users/katsiaryna/Мои документы/WEB HTML CSS/2022/HTMLtags_1/HTMLtags_1/img/crawler-excavators-ec210d-volvo.jpeg" alt="lklkl" width="500" height="300"/>
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam, soluta?</p>
+<p>Lorem ipsum dolor sit.</p>
+<h2>Заголовок</h2>
+<ul>
+	<li>1</li>
+	<li>2</li>
+	<li>3</li>
+</ul>
+<h2>Пример</h2>
+<p>Можно уже бабки зарабатывать</p>
+</body>
+</html>
